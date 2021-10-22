@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>H:/二次元/002.jpg</file>
+        <file>H:/二次元/3d09307cbf2dc0642bffc74651b1b3eb.jpeg</file>
+        <file>H:/二次元/5e48ffa75fa9e962dc9af452c2323da7.jpeg</file>
+        <file>H:/二次元/7eb63f765456b0e8df9bd44bcb46dfcd.jpeg</file>
+        <file>H:/二次元/8dc29f5c5589133cd5601da64d49c425.jpeg</file>
+        <file>H:/二次元/266d54ce6dae19c523c614043982d7d1.jpg</file>
+        <file>H:/二次元/3722ab12bbad9967a457e7404e726bf6.jpg</file>
+        <file>H:/二次元/049998390b0031c65b63eef3a1bf4527.jpg</file>
+        <file>H:/二次元/1621156522574.jpg</file>
+        <file>H:/二次元/1621915633324.jpg</file>
+        <file>H:/二次元/ba80b0fa91745146efae54d92ea16879.jpeg</file>
+        <file>H:/二次元/IMG_20210516_172427.jpg</file>
+        <file>H:/二次元/IMG_20210516_172451.jpg</file>
+        <file>H:/二次元/timg.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
